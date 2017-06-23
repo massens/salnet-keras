@@ -1,0 +1,6 @@
+tidybot.py
+
+*.pyc
+/output
+/input
+
